@@ -7,5 +7,6 @@ for swap.cpp
 ```
 g++ swap.cpp -o run 
 ./run
+rm run
 ```
 
